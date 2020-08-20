@@ -4,6 +4,8 @@ import sys
 from random import choice
 from random import randint
 
+# Higan & Vertigo #
+
 # --------------------------------------------------------------------------- #
 class ghost_game:
 
